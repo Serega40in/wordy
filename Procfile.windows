@@ -1,1 +1,1 @@
-web: python3 wordy.py
+web: python wordy.py
