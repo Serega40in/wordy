@@ -1,1 +1,1 @@
-web: python wordy.py
+worker: python wordy.py
